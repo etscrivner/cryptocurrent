@@ -41,8 +41,7 @@ A cryptic Halloween to all.
 
 include::Preface.asciidoc[]
 
-[chapter]
-= 1: Introduction
+include::Introduction.asciidoc[]
 
 [chapter]
 = 2: Cryptocurrency as Critique
