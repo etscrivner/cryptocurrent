@@ -45,8 +45,7 @@ include::Introduction.asciidoc[]
 
 include::CryptocurrencyAsCritique.asciidoc[]
 
-[chapter]
-= 3: Bitcoin and its Doubles
+include::BitcoinAndItsDoubles.asciidoc[]
 
 [chapter]
 = 4: State of Play
