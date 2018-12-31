@@ -43,8 +43,7 @@ include::Preface.asciidoc[]
 
 include::Introduction.asciidoc[]
 
-[chapter]
-= 2: Cryptocurrency as Critique
+include::CryptocurrencyAsCritique.asciidoc[]
 
 [chapter]
 = 3: Bitcoin and its Doubles
