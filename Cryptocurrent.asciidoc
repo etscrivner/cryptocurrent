@@ -1,0 +1,69 @@
+= Crypto-Current: Bitcoin and Philosophy
+Nick Land
+v1.0, October 31, 2018
+:doctype: book
+:toc:
+:toc-title: Contents
+
+[dedication]
+= Dedication
+Ten years to the day since Satoshi Nakamoto released the Bitcoin whitepaper is long enough.
+
+Serialization of Crypto-Current: Bitcoin and Philosophy starts here, and will continue (with some moments of disorder) until the damn thing is all out. Further notes on the order of release will be forthcoming. Chunks will be limited until they’re drowning in footnotes – which means not getting beyond the epigraphs today.
+
+A cryptic Halloween to all.
+
+---
+
+"There is a sort of vast cycle of flows of production and chains of inscription, and a lesser cycle, between the stocks of filiation that connect or encaste the flows, and the blocks of alliance that cause the chains to flow."
+-- Gilles Deleuze and Félix Guattari, "Capitalism and Schizophrenia Volume I: Anti-Oedipus."
+
+"Everybody needs money. That’s why they call it ‘money’."
+-- David Mamet, Heist (2001)
+
+"What is truth?"
+-- Pontius Pilate (John 18:38)
+
+"I have a lot of friends who are programmers. The programmers have always gone like, 'Those [Bitcoin] guys are crazy.' […] And then, almost 100 percent of the time, they sit down, read the paper, read the code – it takes them a couple weeks – and they come out the other side. And they’re like: 'Oh my god, this is it. This is the big breakthrough. This is the thing we’ve been waiting for. He solved all the problems. Whoever he is should get the Nobel prize – he’s a genius. This is the thing! This is the distributed trust network that the Internet always needed and never had.'"
+-- Marc Andreessen footnote:[Marc Andreessen interviewed by The Washington Post: http://www.washingtonpost.com/blogs/the-switch/wp/2014/05/21/marc-andreessen-in-20-years-well-talk-about-bitcoin-like-we-talk-about-the-internet-today/]
+
+"It would be very surprising if [the Bitcoin solution to the Byzantine Generals’ Problem] didn’t have substantial application. ... That something very significant has happened – I think the prospects for that are quite good."
+-- Larry Summers footnote:[https://www.youtube.com/watch?v=UVGq0zaZsNg&feature=youtu.be]
+
+"Bitcoin is hard to grasp because it’s almost like a technology from an alien civilization."
+-- Ian Bogost footnote:[https://www.theatlantic.com/technology/archive/2017/05/blockchain-of-command/528543/]
+
+"In this paper, we propose a solution to the double-spending problem using a peer-to-peer distributed timestamp server to generate computational proof of the chronological order of transactions."
+-- Satoshi Nakamoto footnote:["Bitcoin: A Peer-to-Peer Electronic Cash System" (2008) https://bitcoin.org/bitcoin.pdf]
+
+"Nullius in verba"
+-- Motto of the Royal Society footnote:[Nullius in verba is commonly translated as “On nobody’s word” or “Take nobody’s word for it”. It formulates the principle of trustlessness at the origin of modern science. The motto dates back to the founding on the Royal Society, in November 1660. It is extracted from Horace’s Epistle to Maecenas (his benefactor), in which he apologizes for abandoning lyric poetry for philosophy.]
+
+include::Preface.asciidoc[]
+
+[chapter]
+= 1: Introduction
+
+[chapter]
+= 2: Cryptocurrency as Critique
+
+[chapter]
+= 3: Bitcoin and its Doubles
+
+[chapter]
+= 4: State of Play
+
+[chapter]
+= 5: Cash Machines
+
+[chapter]
+= 6: The Open Secret
+
+[appendix]
+= The 2008 Bitcoin Paper
+
+[appendix]
+= Techonomics and Diagonal Method
+
+[appendix]
+= Cryptocurrency and World Order
