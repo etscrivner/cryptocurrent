@@ -47,11 +47,9 @@ include::CryptocurrencyAsCritique.asciidoc[]
 
 include::BitcoinAndItsDoubles.asciidoc[]
 
-[chapter]
-= 4: State of Play
+include::StateOfPlay.asciidoc[]
 
-[chapter]
-= 5: Cash Machines
+include::CashMachines.asciidoc[]
 
 [chapter]
 = 6: The Open Secret
